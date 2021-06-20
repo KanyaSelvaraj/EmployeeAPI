@@ -41,7 +41,7 @@ captures/
 .idea/*
 .DS_Store
 HELP.md
-
+target/*
 
 
 # Keystore files
