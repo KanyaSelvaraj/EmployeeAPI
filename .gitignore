@@ -42,6 +42,7 @@ captures/
 .DS_Store
 HELP.md
 target/*
+sd
 
 
 # Keystore files

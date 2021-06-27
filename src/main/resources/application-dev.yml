@@ -1,0 +1,9 @@
+spring:
+  profiles: dev
+  datasource:
+    url: jdbc:h2:mem:emp;INIT=CREATE SCHEMA IF NOT EXISTS EMP
+    username: dev
+    password: dev
+    driverClassName: org.h2.Driver
+server:
+  port: 8082
